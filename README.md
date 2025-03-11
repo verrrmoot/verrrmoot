@@ -18,13 +18,13 @@
 *2024 Курс JavaRush*
 
 ## Рабочий Стэк
--Java (SE/EE)/Kotlin
+- Java (SE/EE)/Kotlin
 
--PostgreSQL/MySQL/FireBase
+- PostgreSQL/MySQL/FireBase
 
--Spring MVC/ Spring Security/ Hibernate
+- Spring MVC/ Spring Security/ Hibernate
 
--Docker
+- Docker
 
 ## Мои основные работы:
 [Дипломный проект HBrain](https://github.com/verrrmoot/hbrain/tree/master)
